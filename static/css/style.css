@@ -1,7 +1,7 @@
 body {
   padding-top: 70px;
 	background-color: #34495e;
-	color: #eee;
+	color: #ddd;
 }
 
 .well, .navbar-default, .btn-default, .panel {
@@ -21,7 +21,7 @@ a.btn-default,
 .navbar-default .navbar-nav li a:active,
 .navbar-default .navbar-nav li a:visited,
 .navbar-default .navbar-brand {
-  color: #eee;
+  color: #ddd;
 }
 
 a:focus, a:hover,
@@ -38,7 +38,7 @@ a:focus, a:hover,
 
 .pagination li a, .pagination .disabled a {
 	background-color: #466B90;
-	color: #eee;
+	color: #ddd;
   border-color: #fff;
 }
 
